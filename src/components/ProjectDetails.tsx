@@ -24,7 +24,7 @@ export const ProjectDetails= ()=>{
                                 <a  href={value.githubLinkCode}><AiFillGithub/></a>                               
                            </div>
                                 <p>{value.description}</p>
-                                <p className="font-bold">Skill : {value.skillUsed}</p>
+                                <p className="font-bold p-4 ">Skill Used : {value.skillUsed}</p>
                                  
                           
                            
