@@ -42,7 +42,7 @@ export const CardData =[
             id: "4",
             projectName: "PATNAT",
             description: "It is a Website Design from Figma Template by using TaillWind Utility Class",
-            githubLinkDemo: "https://ebalin1411.github.io/Math -Operations/",                            
+            githubLinkDemo: "https://ebalin1411.github.io/patnat_tailwind/",                            
             githubLinkCode: "https://github.com/Ebalin1411/patnat_tailwind",
             projectImgUrl:patnat,
             skillUsed:"Tailwind CSS"
